@@ -9,6 +9,9 @@ links blue: #2E71A6
 footer links grey: #454245
 */
 @media(width<768px){
+    nav,header {background-color:#540B51 ;
+        color:#F3EAE2}
+
     .menu {
         display: none; /* Hide the menu by default */
       }
